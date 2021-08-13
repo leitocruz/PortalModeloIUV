@@ -1,0 +1,15 @@
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\bin\Debug\netstandard2.0\PortalModelo.deps.json
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\bin\Debug\netstandard2.0\PortalModelo.dll
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\PortalModelo.csprojAssemblyReference.cache
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\PortalModelo.AssemblyInfoInputs.cache
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\PortalModelo.AssemblyInfo.cs
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\bin\Debug\netstandard2.0\ref\PortalModelo.dll
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\bin\Debug\netstandard2.0\PortalModelo.pdb
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\Views\Portales.xaml.g.cs
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\PortalModelo.csproj.CoreCompileInputs.cache
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\PortalModelo.dll
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\ref\PortalModelo.dll
+D:\Documentos\Xamarin\PortalModelo\PortalModelo\PortalModelo\obj\Debug\netstandard2.0\PortalModelo.pdb

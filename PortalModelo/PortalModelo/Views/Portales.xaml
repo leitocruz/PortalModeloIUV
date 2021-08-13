@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PortalModelo.Views.Portales">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="0">
+            <Entry Placeholder="Municipio"  x:Name="txtmunicipio" />
+            <Entry Placeholder="Status"  x:Name="txtstatus" />
+            <Entry Placeholder="Fecha"  x:Name="txtfecha" />
+            <Button Text="Guardar" x:Name="btnGuardar"
+                    Clicked="btnGuardar_Clicked"/>
+        </StackLayout>
+        <CollectionView Grid.Row="1" x:Name="listaPortales">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="130" />
+                            <RowDefinition Height="40" />
+                        </Grid.RowDefinitions>
+                        <ImageButton Grid.Row="0"
+                                     Source="{Binding Foto}"
+                                     BackgroundColor="WhiteSmoke"
+                                     VerticalOptions="Fill"
+                                     HorizontalOptions="Fill"
+                                     Aspect="AspectFit"
+                                     x:Name="btnFoto"
+                                     />
+                        <Label Text="{Binding Municipio}" 
+                               Grid.Row="1"
+                               VerticalTextAlignment="Center"
+                               HorizontalTextAlignment="Center"
+                               HorizontalOptions="FillAndExpand"
+                               VerticalOptions="FillAndExpand"
+                               FontAttributes="Bold"
+                               FontSize="14"
+                               TextColor="White"
+                               BackgroundColor="Black"
+                               />
+                    </Grid>
+                </DataTemplate>
+                
+            </CollectionView.ItemTemplate>
+        </CollectionView >
+
+    </Grid>
+
+    
+</ContentPage>
